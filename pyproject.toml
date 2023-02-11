@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sqlalchemy-grant-privileges"
+name = "sqlalchemy-privileges"
 version = "0.1.0"
 description = "module provide manipulation with privileges with sqlalchemy"
 authors = ["Nedosekov Ivan <ivan-nedd@mail.ru>"]
@@ -27,7 +27,7 @@ classifiers = [
 ]
 
 
-packages = [{include = "sqlalchemy_grant_privileges"}]
+packages = [{include = "sqlalchemy_privileges"}]
 
 [tool.poetry.dependencies]
 python = "^3.6"
