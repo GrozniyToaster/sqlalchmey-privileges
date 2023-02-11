@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sqlalchemy-privileges"
-version = "0.1.0"
+version = "0.2.0"
 description = "module provide manipulation with privileges with sqlalchemy"
 authors = ["Nedosekov Ivan <ivan-nedd@mail.ru>"]
 license = "MIT"
